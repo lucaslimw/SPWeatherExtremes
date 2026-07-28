@@ -1,0 +1,9 @@
+shiny==1.6.3
+shinywidgets==0.8.1
+pandas==3.0.3
+numpy==2.5.1
+plotly==6.9.0
+matplotlib==3.11.1
+geopandas==1.1.4
+pyproj==3.7.2
+shapely==2.1.2
